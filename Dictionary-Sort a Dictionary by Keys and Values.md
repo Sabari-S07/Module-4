@@ -42,5 +42,4 @@ for key, value in sort.items():
 <img width="821" height="113" alt="md43" src="https://github.com/user-attachments/assets/9a9c0ad1-f272-41b7-b124-3876949a4832" />
 ## Result
 To write a Python program that sorts a dictionary's:
-
 Keys in alphabetical order Values in alphabetical order is executed successfully.
