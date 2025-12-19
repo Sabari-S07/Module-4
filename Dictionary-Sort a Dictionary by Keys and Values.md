@@ -27,12 +27,20 @@ To write a Python program that sorts a dictionary's:
 5. **Display** the original and sorted dictionaries.
 6. **End the program.**
 
+
 ---
 
 ## 🧪Program
-Add Code here
-
+```
+data=eval(input())
+sort=dict(sorted(data.items()))
+print("Keys and Values sorted in alphabetical order by the key")
+for key, value in sort.items():
+    print(f"({key}, {value}) ",end="")
+```
 ## Sample Output
-
+<img width="821" height="113" alt="md43" src="https://github.com/user-attachments/assets/9a9c0ad1-f272-41b7-b124-3876949a4832" />
 ## Result
+To write a Python program that sorts a dictionary's:
 
+Keys in alphabetical order Values in alphabetical order is executed successfully.
